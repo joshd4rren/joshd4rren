@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me:</h3>
 <p align="left">
-I’m currently a 5th semester Business Information Systems student at Petra Christian University. With a strong passion for web development and website-based information systems, I’ve built expertise in various technologies and frameworks.
+I am currently a 7th-semester Business Information Systems student at Petra Christian University. With a strong passion for web development and information systems, I have gained expertise in various technologies and frameworks.
 </p>
 
 <ul>
