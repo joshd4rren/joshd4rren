@@ -34,3 +34,48 @@ to support business operations and organizational efficiency.
   <li><b>Development Tools:</b> Git (Version Control), Postman (API Testing), Figma (UI Prototyping)</li>
   <li><b>Infrastructure & Integration:</b> Linux Environment, Application Deployment, RESTful API Integration</li>
 </ul>
+
+
+<h3 align="left">Featured Projects</h3>
+
+<ul>
+  <li>
+    <b>Enterprise Internal Systems</b><br />
+    Developed internal web-based systems to support cross-department operations, enabling data sharing,
+    reporting, and process efficiency across multiple departments.
+    <br />
+    <i>Tech:</i> Laravel, SQL Server
+  </li>
+
+  <li>
+    <b>SSO & Access Management System</b><br />
+    Designed and implemented a centralized Single Sign-On (SSO) and access management system used across
+    multiple business units within a holding group, supporting secure authentication, authorization,
+    and role-based access control.
+    <br />
+    <i>Tech:</i> Laravel, SQL Server, OAuth
+  </li>
+
+  <li>
+    <b>HRIS & Business Process Automation</b><br />
+    Built and maintained HR-related backend systems to automate employee data management, workflows,
+    and integrations with other internal systems to improve HR operational efficiency.
+    <br />
+    <i>Tech:</i> Laravel, MySQL, API Integration
+  </li>
+
+  <li>
+    <b>Event Management & Payment Integration System</b><br />
+    Developed an event management system with integrated payment processing to support registration,
+    transaction tracking, and operational monitoring.
+    <br /><i>Tech:</i> Laravel, MySQL, Payment Gateway API
+  </li>
+
+  <li>
+    <b>Data Science & Analytics Project</b><br />
+    Developed a Python-based data analysis solution for a national data science competition, addressing
+    real-world problem statements and achieving 2nd place.
+    <br />
+    <i>Tech:</i> Python, Data Analysis
+  </li>
+</ul>
